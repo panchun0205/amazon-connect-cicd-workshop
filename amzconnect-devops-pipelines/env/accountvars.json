@@ -5,7 +5,7 @@
         "branch": "develop",
         "enabled": true,
         "account": "413059635723",
-        "region": "us-west-2",
+        "region": ["us-west-2"],
         "app": "ACME"
     },
     {
@@ -13,7 +13,7 @@
         "branch": "staging",
         "enabled": true,
         "account": "413059635723",
-        "region": "us-east-1", 
+        "region": ["us-east-1"], 
         "app": "ACME"
     },
     {
@@ -21,7 +21,7 @@
         "branch": "main",
         "enabled": true,
         "account": "711623100215",
-        "region": "us-east-1",
+        "region": ["us-east-1"],
         "app": "ACME"
     }]
 }
