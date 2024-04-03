@@ -1,9 +1,9 @@
 {
     "env": "devops",
-    "account": "XXXXXXXXXXXZ",
-    "region": "us-east-1",
-    "codestarArn": "arn:aws:codestar-connections:us-east-2:XXXXXXXXXXXX:connection/5ab48603-7bae-4a43-a256-XXXXXXXXXXXX",
-    "repo": "forked repo here",
-    "owner": "Your github alias",
-    "email": "your email address"
+    "account": "413059635723",
+    "region": "us-west-2",
+    "codestarArn": "arn:aws:codestar-connections:us-west-2:413059635723:connection/a8715d3a-ab8b-43ef-adba-ad027d62fdb4",
+    "repo": "amazon-connect-cicd-workshop",
+    "owner": "panchun0205",
+    "email": "chun.pan.cn@gmail.com"
 }
